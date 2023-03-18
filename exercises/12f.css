@@ -1,0 +1,19 @@
+.top-bar {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  background-color: palevioletred;
+}
+
+.first-section {
+  width: 70px;
+}
+.middle-section {
+}
+
+.search-bar {
+  flex: 1;
+  width: 700px;
+  border-radius: 10px;
+}
+

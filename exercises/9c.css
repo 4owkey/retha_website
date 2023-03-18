@@ -1,0 +1,14 @@
+div {
+  border-color: black;
+  border:solid;
+  width: 300px;
+  padding-left: 16px;
+  padding-bottom: 14px;
+  border-width: 1px;
+  font-weight: bold;
+  font-family: Arial;
+}
+
+p {
+  margin-bottom: 20px;
+}

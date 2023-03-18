@@ -1,0 +1,22 @@
+div {
+  border: light;
+  padding-right: 12px;
+  padding-left: 12px;
+  padding-top: 1px;
+  padding-bottom: 13px;
+  background-color: rgb(75, 73, 73);
+  width: 325px;
+}
+
+.title {
+  font-size: 18px;
+  font-weight: bold;
+  color: white;
+  font-family: Arial;
+}
+
+.message {
+  color: rgb(194, 191, 191);
+  font-family: Arial;
+  font-size: 14px;
+}

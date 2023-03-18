@@ -1,0 +1,14 @@
+.friend,
+.friend-info,
+.info{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
+img {
+  width: 30px;
+  border-radius: 90px;
+  object-fit: cover;
+}
+

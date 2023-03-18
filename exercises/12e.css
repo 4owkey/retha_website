@@ -1,0 +1,39 @@
+.navigation {
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 4px;
+  border-color: grey;
+  height: 80px;
+  padding-top: 6px;
+  padding-left: 15px;
+  padding-right: 15px;
+  padding-bottom: 9px;
+}
+
+.first-section,
+.second-section,
+.third-section {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.second-section {
+  margin-top: 10px;
+  margin-bottom: 10px ;
+}
+
+button {
+background-color: blue;
+color: white;
+border: none;
+border-radius: 10px;
+padding-top: 2px;
+padding-bottom: 2px;
+padding-right: 10px;
+padding-left: 10px;
+}
+
+.text {
+  font-family: Arial, Helvetica, sans-serif
+}

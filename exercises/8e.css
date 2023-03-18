@@ -1,0 +1,49 @@
+input {
+  font-family: Rubik;
+  padding-top: 14px;
+  padding-bottom: 14px;
+  padding-left: 16px;
+  padding-right: 16px;
+  background-color: rgba(240, 237, 237, 0.952);
+  border: none;
+  font-size: 14px;
+  display: block;
+}
+
+h1 {
+  font-weight: normal;
+  font-family: Rubik;
+}
+
+.pickup {
+  margin-bottom: 12px;
+  width: 300px;
+}
+
+.destination {
+  margin-bottom: 25px;
+  width: 300px;
+}
+
+button {
+  font-family: Rubik;
+  padding-top: 14px;
+  padding-bottom: 14px;
+  padding-left: 16px;
+  padding-right: 16px;
+  border: none;
+}
+
+.request {
+  background-color: black;
+  color: white;
+  margin-right: 8px;
+  font-weight: bold;
+}
+
+.schedule {
+  color: black;
+  font-weight: bold;
+  background-color: rgba(240, 237, 237, 0.952);
+}
+
